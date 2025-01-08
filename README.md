@@ -1,10 +1,10 @@
-### **Internship Assignment Report: Analysis of Binance Accounts' Trade Data**
+Assignment Report: Analysis of Binance Accounts' Trade Data
 
-#### **Objective**
-The task was to analyze historical trade data from Binance accounts to calculate key financial metrics, rank the accounts based on their performance, and identify the top 20 accounts.
+Objective
+The task was to analyze historical trade data from Binance accounts to calculate key financial metrics, rank the accounts based on their performance, and identify the top 20 accounts from the past 20 dayes.
 
-#### **Code Overview**
-The provided Python code performs a series of steps to achieve the task's objective, using the `pandas` library in a Google Colab environment.
+• Overview:
+The provided Python code performs a series of steps to achieve the task's objective, using the `pandas` library in a Google Colab environment. I used goggle colab in making this project.
 
 
 
